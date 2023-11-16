@@ -1,0 +1,25 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+devDependencies:
+  '@types/dom-webcodecs':
+    specifier: ^0.1.10
+    version: 0.1.10
+  typescript:
+    specifier: ^5.2.2
+    version: 5.2.2
+
+packages:
+
+  /@types/dom-webcodecs@0.1.10:
+    resolution: {integrity: sha512-qQfLMw4yhtagKQApMQKaf21KZeJu3Psysbm/wLQ3mkpyBWY3x3dHCKFcYs43WEH+s8zgTSF0DvJUPWTtyZP0Dw==}
+    dev: true
+
+  /typescript@5.2.2:
+    resolution: {integrity: sha512-mI4WrpHsbCIcwT9cF4FZvr80QUeKvsUsUvKDoR+X/7XHQH98xYD8YHZg7ANtz2GtZt/CBq2QJ0thkGJMHfqc1w==}
+    engines: {node: '>=14.17'}
+    hasBin: true
+    dev: true

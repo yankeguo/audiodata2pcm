@@ -1,0 +1,21 @@
+{
+  "name": "audiodata2pcm",
+  "version": "0.1.0",
+  "description": "encode a AudioData frame from WebCodecs API to PCM format",
+  "main": "dist/audiodata2pcm.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "audio",
+    "webcodecs",
+    "audiodata",
+    "pcm"
+  ],
+  "author": "GUO YANKE <hi@guoyk.xyz>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/dom-webcodecs": "^0.1.10",
+    "typescript": "^5.2.2"
+  }
+}
